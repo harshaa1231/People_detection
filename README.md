@@ -1,6 +1,9 @@
 # People_detection
 This repository consists of the code to detect the count of people. I used the Yolo V8 model to achieve the results
 
+To learn more on how I approached the problem statement, why the project was done checkout, My Medium page: https://medium.com/@hv6700030
+
+To learn more about me connect with me on: https://linkedin.com/in/harsha-talapaka/
 
 
 
