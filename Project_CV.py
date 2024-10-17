@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[23]:
-
-
 import cv2
 from ultralytics import YOLO
 
@@ -73,19 +67,9 @@ def process_video(input_path, output_video_path):
     cv2.destroyAllWindows()
 
 
-# In[25]:
-
-
 # Main function to run the program
 if __name__ == "__main__":
     input_path = input("Enter the path to a video: ")  # e.g., '/path/to/video.mp4'
     output_path = input("Enter the path to save the output video: ")  # e.g., 'output.mp4'
     
     process_video(input_path, output_path)  # Call the function to process and save the video
-
-
-# In[ ]:
-
-
-
-
