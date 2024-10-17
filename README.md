@@ -7,10 +7,21 @@ To learn more about me connect with me on: https://linkedin.com/in/harsha-talapa
 
 
 
-https://github.com/user-attachments/assets/8dbd1a26-d62e-43aa-9bd5-f9ba0a5e5b63
+
+https://github.com/user-attachments/assets/7b82bab0-6a4e-4198-8907-0fb95be999f4
 
 
 
-https://github.com/user-attachments/assets/34c4c1b6-e41d-4067-bc12-3f078253d636
+
+https://github.com/user-attachments/assets/96689199-bc5e-4f71-a6ec-daf6469387c1
+
+
+
+
+
+https://github.com/user-attachments/assets/e6d8fa1d-44e4-403a-b1ff-e3bd923e8759
+
+
+
 
 
