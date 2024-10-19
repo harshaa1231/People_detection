@@ -44,8 +44,8 @@ def process_video(input_path, output_video_path):
     out = cv2.VideoWriter(output_video_path, fourcc, fps, (frame_width, frame_height))
 
     while cap.isOpened():
-        ret, frame = cap.read()  # Read a frame
-        if not ret:
+        result, frame = cap.read()  # Read a frame
+        if not result:
             break  # Exit if no frame is read
 
         # Detect and classify objects, and get the people count
